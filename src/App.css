@@ -1,0 +1,16 @@
+body {
+  margin: 20px;
+}
+
+.card {
+  background-color: "#ffffff";
+  border: 1px solid grey;
+  padding: 10px;
+}
+
+.card-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
